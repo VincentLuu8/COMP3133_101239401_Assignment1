@@ -27,7 +27,6 @@ const server = new ApolloServer({
 
 await server.start();
 
-// Increase JSON limit if you're sending base64 photos in JSON
 app.use(
   "/graphql",
   cors(),

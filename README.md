@@ -1,6 +1,5 @@
 # COMP3133 Assignment 1 — GraphQL Employee Management API
-**Student ID:** 101239401  
-**Repo:** COMP3133_101239401_Assignment1
+**Student ID:** 101239401
 
 This is an employee management system backend application using NodeJS, Express, GraphQL and MongoDB. Users can signup/login and features employee CRUD + search.
 
