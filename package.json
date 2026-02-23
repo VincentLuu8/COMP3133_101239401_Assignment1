@@ -1,0 +1,10 @@
+{
+  "name": "comp3133_101239401_assignment1",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js",
+    "start": "node src/index.js"
+  }
+}
